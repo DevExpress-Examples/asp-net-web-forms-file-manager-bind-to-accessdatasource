@@ -6,7 +6,7 @@
 
 # File Manager for ASP.NET Web Forms - How to bind the File Manager to AccessDataSource
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e4426/)**
+**[[Run Online]](https://codecentral.devexpress.com/128554425/)**
 <!-- run online end -->
 
 This example illustrates how to bind [ASPxFileManager](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxFileManager) to AccessDataSource.
